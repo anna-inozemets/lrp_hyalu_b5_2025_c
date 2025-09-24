@@ -484,7 +484,7 @@ ul {
 .slide--1 .slide__slot--day .slide__slot-product--8 {
   order: 4;
 }
-.slide__slot-product--10 {
+.slide__slot-product--10, .slide__slot-product--9 {
   order: 5;
 }
 .slide--1 .slide__slot--night .slide__slot-product--8 {
